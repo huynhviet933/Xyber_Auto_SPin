@@ -1,0 +1,24 @@
+{
+  "name": "xyber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cfonts": "^3.3.1",
+    "chalk": "^5.6.2",
+    "ethers": "^6.16.0",
+    "gradient-string": "^3.0.0",
+    "https-proxy-agent": "^7.0.6",
+    "ora": "^9.0.0",
+    "socks-proxy-agent": "^8.0.5",
+    "uuid": "^13.0.0"
+  },
+  "type": "module"
+}
